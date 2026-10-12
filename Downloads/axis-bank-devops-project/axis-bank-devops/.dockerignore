@@ -1,0 +1,12 @@
+.git
+.github
+.venv
+venv
+__pycache__
+.pytest_cache
+tests
+terraform
+k8s
+.env
+*.db
+README.md
