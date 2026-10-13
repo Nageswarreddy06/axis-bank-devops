@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Axis Bank–Style DevOps Banking Demo
 
 > **Educational project only.** This is not an official Axis Bank application and is not affiliated with Axis Bank. Do not use real customer data, real credentials, or real money.
@@ -392,3 +393,6 @@ Review the plan before confirming. Terraform destroy deletes the resources it ma
 - **Pod is `Pending`:** inspect PVCs and `kubectl describe pod`; the cluster may lack a suitable storage class or capacity.
 - **GitHub deployment fails at AWS credentials:** check the OIDC role ARN, repo/branch trust policy, repository variables, and workflow permissions.
 - **GitHub deployment fails at kubectl:** verify the EKS cluster name/region and that the role has an EKS access entry.
+=======
+## Project 2 Status: Complete
+>>>>>>> d49a400ee455777fb9f3687268c885bb6c29c586
