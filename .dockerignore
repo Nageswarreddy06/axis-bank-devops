@@ -1,5 +1,4 @@
 .git
-<<<<<<< HEAD
 .github
 .venv
 venv
@@ -12,4 +11,4 @@ k8s
 README.md
 =======
 node_modules
->>>>>>> d49a400ee455777fb9f3687268c885bb6c29c586
+
