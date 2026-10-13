@@ -1,0 +1,12 @@
+aws_region = "ap-south-1"
+project_name = "axis-bank-demo"
+cluster_name = "axis-bank-demo-eks"
+cluster_version = "1.34"
+vpc_cidr = "10.20.0.0/16"
+
+# Replace with YOUR GitHub owner/repository. Do not include https://github.com/
+github_repository = "YOUR_GITHUB_USERNAME/axis-bank-devops"
+
+# Replace the example address with your current public IP followed by /32.
+# Example format: ["198.51.100.25/32"]
+cluster_endpoint_public_access_cidrs = ["198.51.100.25/32"]
